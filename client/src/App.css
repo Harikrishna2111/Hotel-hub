@@ -1,2 +1,6 @@
-.navbar-brand{color: rgb(0, 0, 0);
+.navbar-brand{
+    color: rgb(0, 0, 0);
+    font-size:x-large;
+    padding: 0px;
+    font-weight: 500;
 }

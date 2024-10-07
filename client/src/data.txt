@@ -1,0 +1,24 @@
+Hotels
+-Royal biryani
+-Kaaviam Mess
+-Swetha Mess
+-KFC
+
+Dishes
+-Chicken biryani
+-Chicken Rice
+-Kothu Parotta
+-Chicken Kothu Parotta 
+
+DATA of Hotels 
+-hotel image
+-hotel name
+-Ordering Time
+-Description
+
+DATA of Dishes 
+-Dish Name 
+-Price
+-Dish image 
+-Veg/Non-Veg
+-Description
