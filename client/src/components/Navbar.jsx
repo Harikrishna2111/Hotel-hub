@@ -4,8 +4,8 @@ export default function Navbar() {
   return (
     <div>
       <nav className="navbar navbar-expand-lg shadow p-3 mb-5 bg-white rounded">
-        <a className="navbar-brand" href="#">
-          Hotel Hub
+        <a className="navbar-brand" href="#" style={{color: 'blue',textDecoration:'none',fontWeight:'bolder',fontSize:'xx-larger'}}>
+          Craveo
         </a>
         <button
           className="navbar-toggler"

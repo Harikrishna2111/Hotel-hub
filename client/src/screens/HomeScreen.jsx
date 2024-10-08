@@ -8,7 +8,7 @@ export default function HomeScreen() {
     <div className="row">
         {hotels.map(hotel=>{
         return <div className="col-md-4">
-            <div>
+            <div style={{textAlign: 'center', width:'400px', marginLeft:'50px'}} className='shadow-lg p-3 mb-5 bg-body rounded'>
                 <Hotel hotel={hotel}/>
             </div>
         </div>
