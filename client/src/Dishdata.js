@@ -1,4 +1,4 @@
-dish=[
+const dishes=[
     {
         name: "Chicken Biryani",
         price: 250,
@@ -29,4 +29,4 @@ dish=[
     }
 
 ]
-export default dish;
+export default dishes;

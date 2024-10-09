@@ -5,7 +5,7 @@ export default function Hotel({hotel}) {
     <div>
         
         <img src={hotel.img} className='img-fluid' style={{height : '200px', width : '200px'}}/>
-        <h1>{hotel.name}</h1>
+        <h1 style={{fontSize: "30px", fontWeight: 'bold', marginTop: '20px'}}>{hotel.name}</h1>
         <h1>{hotel.location}</h1>
         <div>
           <p>Order Time</p>
