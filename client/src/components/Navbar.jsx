@@ -3,7 +3,7 @@ import React from "react";
 export default function Navbar() {
   return (
     <div>
-      <nav className="navbar navbar-expand-lg shadow p-3 mb-5 bg-white rounded">
+      <nav className="navbar navbar-expand-lg shadow p-3 mb-3 bg-white rounded">
         <a className="navbar-brand" href="#" style={{color: 'blue',textDecoration:'none',fontWeight:'bolder',fontSize:'xx-larger'}}>
           Craveo
         </a>
@@ -11,8 +11,8 @@ export default function Navbar() {
           className="navbar-toggler"
           type="button"
           data-toggle="collapse"
-          data-target="#navbarNav"
-          aria-controls="navbarNav"
+          data-target="#navbarNavAltMarkup"
+          aria-controls="navbarNavAltMarkup"
           aria-expanded="false"
           aria-label="Toggle navigation"
         >
